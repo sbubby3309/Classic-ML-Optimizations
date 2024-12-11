@@ -555,7 +555,7 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Cultist
 
-![[Cultist Setup.mp4]]
+https://github.com/user-attachments/assets/09493d25-51a3-478f-a618-cde0d189f39b
 
 - Move booster track into your hotbar after placing the anvil (if needed).
 - Move unholy arrows to the top ammo slot (unfavorited).
