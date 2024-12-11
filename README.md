@@ -69,7 +69,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Wall Placement
 
-![[Wall Placement.mp4]]
+
+https://github.com/user-attachments/assets/8b0c1ed1-0d58-4997-b1d1-8949f27df8de
+
 
 - In some configurations, multiple walls may be placed at once.
 - Placing the outer frame, then wiggling for the inner walls is a simple method
@@ -125,7 +127,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Surface Bed Crafting
 
-![[Bed Workbench.mp4]]
+
+https://github.com/user-attachments/assets/2bff5c79-0876-44ab-abe9-456b460ada0b
+
 
 - Keg is directly above loom in the crafting wheel.
 - Workbench is directly above bed.
@@ -146,7 +150,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Regular Hell Bedwarp
 
-![[Regular Hellbed.mp4]]
+
+https://github.com/user-attachments/assets/1897e286-1dde-45c1-b889-d1f7610ce41f
+
 
 - Build the frame of the house, then place workbench and bed (and set your
   spawn).
@@ -161,7 +167,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Underworld Bed Crafting + Bedwarp
 
-![[Bedless Hellbed.mp4]]
+
+https://github.com/user-attachments/assets/8d0a5049-a732-43c7-94e9-92fbc2bc97c9
+
 
 - Trash items so that you have at least 2 free inventory slots.
 - Scroll to the bottom of the crafting wheel.
@@ -181,7 +189,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Skeletron
 
-![[Skeletron Crafting.mp4]]
+
+https://github.com/user-attachments/assets/4ffd005b-adbb-4933-87fc-e8648ffeb766
+
 
 - After the spin attack, try to set up the next dynamite portion at the same
   height as Skeletron.
@@ -206,7 +216,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Pickaxe timesave
 
-![[Pickaxe Throw.mp4]]
+
+https://github.com/user-attachments/assets/340ca186-8da4-40c3-9fca-cd91dc9a9758
+
 
 - Best strat in the game.
 - Throw your pickaxe, then craft your 20 Hellstone bars and close your
@@ -314,11 +326,15 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 #### Dry
 
-![[Dry Shimmer build.mp4]] 
+
+https://github.com/user-attachments/assets/1a9217cd-ed70-4219-b65c-3e297f159d8b
+
 
 #### Flooded
 
-![[Flooded Shimmer Build.mp4]]
+
+https://github.com/user-attachments/assets/b4bb9a4b-f340-4baf-81ed-1aab2dda98ca
+
 
 - I use an "old" version of the shimmer house rather than any iterations that I
   developed afterwards, simply because the top compartment for this one is
@@ -352,7 +368,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Crafting
 
-![[Shimmer Crafting.mp4]]
+
+https://github.com/user-attachments/assets/b648def1-80b7-4f9c-b9f1-83954c9f26e1
+
 
 - Since you're at the bottom of the scroll menu, this should be the initial
   crafting phase:
@@ -442,7 +460,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Mechs Setup
 
-![[Mechs Prep.mp4]]
+
+https://github.com/user-attachments/assets/007f9acb-3b44-47fc-89c3-aadb328c9a9b
+
 
 - Trash sand and walls, then move Pwnhammer and Hardmode Anvil into your hotbar
   by grabbing them and closing your inventory.
@@ -497,7 +517,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Logic Sensor setup
 
-![[Logic Sensor.mp4]]
+
+https://github.com/user-attachments/assets/ac3935c6-2b0e-46f5-a7c0-71114e5209c4
+
 
 - Place the Hardmode anvil at shimmer and throw one of the 9 and 0 slots.
   - These are the slots you had teleporter and switches in. Only one of these
@@ -523,7 +545,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Plantera
 
-![[Chair Crafting.mp4]]
+
+https://github.com/user-attachments/assets/3f914d68-b81b-4a3c-870e-d5cb4324b58c
+
 
 - If you're going for a good time, go directly to temple, or look for where you
   think temple would most likely be rather than looking for Plantera's bulb.
@@ -570,7 +594,9 @@ https://github.com/user-attachments/assets/09493d25-51a3-478f-a618-cde0d189f39b
 
 ## Pillars
 
-![[Red Square.mp4]]
+
+https://github.com/user-attachments/assets/790a0f05-3f1d-4ac4-97ab-6523a4cf1e67
+
 
 - Hallowed helmets are just under the red square in the crafting wheel. Scroll
   to them if you're waiting for hallowed bars to craft a helmet.
@@ -604,7 +630,9 @@ https://github.com/user-attachments/assets/09493d25-51a3-478f-a618-cde0d189f39b
 
 ### Stardust first
 
-![[Stationary Dragon.mp4]]
+
+https://github.com/user-attachments/assets/1d47931e-075a-46e8-a2e4-6cc8a21c7d70
+
 
 - I generally don't do Stardust first with unexplored sky or if I have to pass
   an island, as it can get out of hand easily.
