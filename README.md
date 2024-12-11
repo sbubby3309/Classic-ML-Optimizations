@@ -62,6 +62,7 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 - Placing the first table towards the outside of the house lets you place the
   chair 1 block closer.
   - Table is 1 block further, in exchange for the chair being 3 blocks closer.
+  
   ![Close Chair](https://github.com/user-attachments/assets/d9014dd9-9cb7-410a-a587-35f88b8add31)![Far Chair](https://github.com/user-attachments/assets/caef6ee6-6b09-4b51-b798-bb1980023658)
 
 
