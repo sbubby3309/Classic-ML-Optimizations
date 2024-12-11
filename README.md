@@ -34,7 +34,7 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### 0 free hotbar slots
 
-![[0 Hotbar Slots.mp4]]
+![[0 Hotbar Slots.mp4](https://github.com/user-attachments/assets/55cccdee-9636-4c2b-a754-a7dad436c594)](https://raw.githubusercontent.com/sbubby3309/Classic-ML-Optimizations/main/assets/0 Hotbar Slots.mp4)
 
 - Walls and tables will most likely be adjacent in your inventory.
 - After building the frame of the house, throw walls and grab the table to the
