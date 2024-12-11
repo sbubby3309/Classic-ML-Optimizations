@@ -62,7 +62,9 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 - Placing the first table towards the outside of the house lets you place the
   chair 1 block closer.
   - Table is 1 block further, in exchange for the chair being 3 blocks closer.
-    ![[Close Chair.png]]![[Far Chair.png]]
+  ![Close Chair](https://github.com/user-attachments/assets/d9014dd9-9cb7-410a-a587-35f88b8add31)![Far Chair](https://github.com/user-attachments/assets/caef6ee6-6b09-4b51-b798-bb1980023658)
+
+
 
 ### Wall Placement
 
@@ -234,7 +236,8 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Souls Hotbar
 
-![[Souls Hotbar.png]]
+![Souls Hotbar](https://github.com/user-attachments/assets/86a53ac1-a3eb-4349-bafe-24f944803fd4)
+
 
 - To build the souls setup, you'll need:
   - Water Candle
@@ -275,7 +278,8 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Teriyaki
 
-![[Separate Booster Tracks.png]]
+![Separate Booster Tracks](https://github.com/user-attachments/assets/b87b785d-8895-4d2e-b683-da371f12b447)
+
 
 - Build the teriyaki towards Dungeon-side first.
   - This makes for a quicker escape if you have a solar eclipse after Golem,
@@ -288,8 +292,6 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
     require a double jump or hooking.
 
 ## Pre-shimmer Inventorying
-
-<!-- TODO: Screenshot of Inventory -->
 
 - Craft a workbench.
 - Scroll to the bottom - Mythril and Orichalcum bars are just above coins.
@@ -312,6 +314,7 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 #### Dry
 
 ![[Dry Shimmer build.mp4]] 
+
 #### Flooded
 
 ![[Flooded Shimmer Build.mp4]]
@@ -423,8 +426,6 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ## Mechanic/Reforging
 
-<!-- TODO: Video-->
-
 - Buy and throw:
   - Yellow Wrench - it's the closest one
   - Switch x2
@@ -510,7 +511,7 @@ walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 ### Inventory
 
-![[Plantera Inventory.png]]
+![Plantera Inventory](https://github.com/user-attachments/assets/2679411f-305a-4c80-b12f-3c0dd1b36bed)
 
 - Move teleporters and dynamite to the bottom right of your inventory (closest
   to center of screen).
