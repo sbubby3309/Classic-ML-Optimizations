@@ -8,7 +8,9 @@
 
 ## Zoom in/out
 
-![[Zoom out.png]] Make sure you have map zoom in/out accessible. While you are
+![Zoom out](https://github.com/user-attachments/assets/55cccdee-9636-4c2b-a754-a7dad436c594)
+
+Make sure you have map zoom in/out accessible. While you are
 walking or digging to the pyramid, you can zoom out on the map to plan out:
 
 - Which trees you want to bomb for housing
