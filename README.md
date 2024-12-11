@@ -206,7 +206,7 @@ https://github.com/user-attachments/assets/4ffd005b-adbb-4933-87fc-e8648ffeb766
   - If you want to do this, you'll want to move the required crafting station
     into your hotbar (I use slot 9, which has acted as a flex slot thus far).
 - Remove double jumps if you have a carpet - they slow down your descent.
-  - Don't do this if you have featherfall activer or Umbrella.
+  - Don't do this if you have featherfall active or Umbrella.
 - Move Umbrella into your hotbar so that you can fall without pausing to
   levitate or double jump.
 
