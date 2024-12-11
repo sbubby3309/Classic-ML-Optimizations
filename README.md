@@ -47,7 +47,9 @@ https://github.com/user-attachments/assets/d8003857-8349-43dc-88d7-2c9710e8622c
 
 ### 1 free hotbar slot
 
-![[1 Hotbar Slot.mp4]]
+
+https://github.com/user-attachments/assets/5b615772-709d-41fc-96c2-4c5a8ff8c28c
+
 
 - After throwing the tables and walls, throw an item from your inventory before
   walking left.
