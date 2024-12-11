@@ -312,14 +312,14 @@ https://github.com/user-attachments/assets/340ca186-8da4-40c3-9fca-cd91dc9a9758
 - Scroll to the bottom - Mythril and Orichalcum bars are just above coins.
 - Move piggy into hotbar (0 slot for me, replaces recalls).
 - Move anvils and Hellforge to the bottom right
-- This is the closest position to the center of the screen.
+  - This is the closest position to the center of the screen.
 - Before arriving at shimmer, move bed and workbench to hotbar.
-- I replace junction boxes and booster rails with these (8 and 9).
-- A good time to do this is while you're waiting for dynamite to explode after
+  - I replace junction boxes and booster rails with these (8 and 9).
+  - A good time to do this is while you're waiting for dynamite to explode after
   finding shimmer.
 - Clear out the top ammo slot so you can shift-click ichor arrows into the slot
   later.
-- If you still need bullets, you should clear all of the slots to maximize the
+  - If you still need bullets, you should clear all of the slots to maximize the
   chance of picking up bullets.
 
 ## Shimmer
@@ -344,16 +344,16 @@ https://github.com/user-attachments/assets/b4bb9a4b-f340-4baf-81ed-1aab2dda98ca
   to pick up items.
 - You should learn shimmer housing for both flooded and dry shimmer.
 - Place bed, torch and workbench after building the frame.
-- You want Mechanic at shimmer so that you can overlap shimmering with
+  - You want Mechanic at shimmer so that you can overlap shimmering with
   purchasing.
-- Freeing up a house is also makes it more likely for Arms Dealer to move in,
+  - Freeing up a house is also makes it more likely for Arms Dealer to move in,
   and allows Dryad to move in (makes Mechs and Moon Lord fight easier).
 - Grab the Hellforge and close your inventory, then grab the anvil (which
   should be adjacent to the Hellforge) and place it. Finally, place the Hellforge
   (which should be in the hotbar).
 - If you have to shimmer Orichalcum, move Mechanic into the house in the mean
   time.
-- Performing an action that has a use-animation as the ore finishes shimmering
+  - Performing an action that has a use-animation as the ore finishes shimmering
   can cause it to shimmer again.
 - Craft the Mythril/Orichalcum bars and close your inventory, then do the same
   with the hardmode anvil. The bars and hardmode anvil should move into the
@@ -376,60 +376,61 @@ https://github.com/user-attachments/assets/b648def1-80b7-4f9c-b9f1-83954c9f26e1
 
 - Since you're at the bottom of the scroll menu, this should be the initial
   crafting phase:
-- Mech summons
-- Minecart (if needed)
-- Molten Chestplate
-- Cooking Pot
+  - Mech summons
+  - Minecart (if needed)
+  - Molten Chestplate
+  - Cooking Pot
 - Open the crafting menu for ichor arrows - they're at the very front.
 - Open the menu for rails
 - Since the piggy menu is closer, you'll want to shift-click items into your
   hotbar rather than dragging each one there.
-- Replace your weapon (3) with walls (unfavorited).
-- Iron gates are walls that can be crafted at an anvil. They're just above
-  rails in the crafting wheel.
-- Turn on ruler for the Destroyer split.
-- Grab Pwnhammer (1)
-- Trash platforms if you're planning to craft stone platforms.
-- Clear out 8, 9, 0 slots (bed, workbench, and piggy slots from the start of
+- Inventorying phase
+  - Replace your weapon (3) with walls (unfavorited).
+    - Iron gates are walls that can be crafted at an anvil. They're just above
+    rails in the crafting wheel.
+  - Turn on ruler for the Destroyer split.
+  - Grab Pwnhammer (1)
+  - Trash platforms if you're planning to craft stone platforms.
+  - Clear out 8, 9, 0 slots (bed, workbench, and piggy slots from the start of
   this split) by shift-clicking them.
-- Click on sand to place Pwnhammer in its place and move sand to the bottom row
+  - Click on sand to place Pwnhammer in its place and move sand to the bottom row
   of your piggy.
 - Next set of crafting:
-- Glass
-- Stone bricks (should be just below glass)
-- Stone platforms (scroll up from stone bricks)
-- Mugs (scroll up from stone platforms)
+  - Glass
+  - Stone bricks (should be just below glass)
+  - Stone platforms (scroll up from stone bricks)
+  - Mugs (scroll up from stone platforms)
 - Shift-click these items into your hotbar
-- Sand (1, previously Pwnhammer)
-- Stone platforms (5)
-- Cooking Pot (8)
-- Keg (9)
-- Bottle/Alchemy Table (0)
+  - Sand (1, previously Pwnhammer)
+  - Stone platforms (5)
+  - Cooking Pot (8)
+  - Keg (9)
+  - Bottle/Alchemy Table (0)
 - Having all of these crafting stations in the hotbar minimizes the time you
   spend awake.
 - Place the Cooking Pot, Keg, and potion crafting station.
 - Finish your hotbar
-- Junction boxes (8)
-- Hardmode ore (9)
-- Recalls (0)
+  - Junction boxes (8)
+  - Hardmode ore (9)
+  - Recalls (0)
 - Third set of crafting (consumables)
-- Ale is near the top
-- Seafood dinner x2
-- Regeneration x2
-- Ironskin x2
-- Featherfall x 2
-- Archery x3
-- If you're low on Daybloom, craft Featherfalls first. It's the only necessary
+  - Ale is near the top
+  - Seafood dinner x2
+  - Regeneration x2
+  - Ironskin x2
+  - Featherfall x 2
+  - Archery x3
+    - If you're low on Daybloom, craft Featherfalls first. It's the only necessary
   one.
-- Builder
-- Battle (if you need feathers)
-- Dangersense (find temple and open space)
-- Night Owl
-- Spelunker (same as dangersense)
+  - Builder
+  - Battle (if you need feathers)
+  - Dangersense (find temple and open space)
+  - Night Owl
+  - Spelunker (same as dangersense)
 - Zoom in on overlay map
-- This makes Destroyer kill more consistent.
+  - This makes Destroyer kill more consistent.
 - Scroll to the bottom of the crafting wheel.
-- Your next craft will be Hallowed Jousting Lance.
+  - Your next craft will be Hallowed Jousting Lance.
 
 ## Destroyer
 
