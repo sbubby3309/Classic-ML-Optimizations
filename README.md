@@ -111,7 +111,7 @@ https://github.com/user-attachments/assets/8b0c1ed1-0d58-4997-b1d1-8949f27df8de
 - Stay at 100 HP if you have Boomstick and no Arms Dealer.
   - Nurse isn't needed until N2. Arms Dealer's presence can make Clockwork
     Assault Rifle usable
-- Don't go above 180HP until nighttime.
+- Don't go above 120HP until nighttime.
   - Blood Moons are a nuisance, and EoC spawn when you're travelling to Dungeon
     means a reset or relog.
 
